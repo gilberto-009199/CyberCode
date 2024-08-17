@@ -2,7 +2,7 @@
 # CyberCode
   ![Tela inicial](./home.png)
 
-  Site básico de inicio de carreiro
+  Site básico de inicio de carreira
 
 ## Bibliotecas
 
